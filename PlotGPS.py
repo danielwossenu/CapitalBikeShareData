@@ -4,6 +4,8 @@ import pandas as pd
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 
+#This is a test for GITHUB
+
 # read station coordinates into coor
 data = csv.reader(open('stationCoordinates2.csv','rb'))
 coor = []
